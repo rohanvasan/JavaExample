@@ -6,7 +6,7 @@ package basics;
 public class Giant implements Foo,Fum {
     @Override
     public String doIt() {
-        return "Fee, Fii, basics.Foo, basics.Fum";
+        return "Fee, Fii, Foe, Fum";
     }
 
 
