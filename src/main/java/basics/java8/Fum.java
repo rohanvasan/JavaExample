@@ -1,4 +1,4 @@
-package basics;
+package basics.java8;
 
 /**
  * Created by coffee on 10/31/14.

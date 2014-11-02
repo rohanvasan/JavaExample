@@ -1,6 +1,6 @@
 package basics;
 
-import basics.Adder;
+import basics.generics.Adder;
 import org.junit.Test;
 
 import java.util.Arrays;

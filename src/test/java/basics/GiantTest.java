@@ -1,5 +1,6 @@
 package basics;
 
+import basics.java8.Giant;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
